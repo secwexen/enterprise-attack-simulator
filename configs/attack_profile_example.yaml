@@ -1,1 +1,10 @@
+name: "Basic Discovery Simulation"
+description: "Runs a small set of non-destructive discovery techniques for educational purposes."
 
+techniques:
+  - module: "discovery.T1087_list_users"
+    class: "Technique"
+    meta:
+      id: "T1087"
+      name: "Account Discovery (Simulated)"
+      tactic: "discovery"
