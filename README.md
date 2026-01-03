@@ -70,19 +70,15 @@ enterprise-attack-simulator/
 ├── reports/
 │   └── (auto-generated reports)
 │
-├── docs/
-│   ├── architecture.md
-│   ├── technique-development-guide.md
-│   └── roadmap.md
-│
 ├── tests/
 │   ├── test_executor.py
 │   ├── test_techniques.py
 │   └── test_utils.py
 │
-├── requirements.txt
+├── .gitignore
 ├── LICENSE
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
