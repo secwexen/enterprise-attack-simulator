@@ -86,7 +86,7 @@ enterprise-attack-simulator/
 ## **Installation**
 
 ```bash
-git clone https://github.com/secwexen/enterprise-attack-simulator
+git clone https://github.com/secwexen/enterprise-attack-simulator.git
 cd enterprise-attack-simulator
 pip install -r requirements.txt
 ```
