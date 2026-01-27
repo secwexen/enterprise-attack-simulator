@@ -1,5 +1,10 @@
 # **Enterprise Attack Simulator**
 
+![License](https://img.shields.io/github/license/secwexen/enterprise-attack-simulator)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+
 A modular adversary simulation framework designed to emulate real-world cyber attacks based on the MITRE ATT&CK framework.  
 This project enables Red Team, Purple Team, and security engineers to evaluate detection capabilities, validate defensive controls, and simulate realistic attack chains in enterprise environments.
 
