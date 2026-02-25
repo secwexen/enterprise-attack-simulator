@@ -1,5 +1,3 @@
-<!-- Enterprise‑Grade Adversary Simulation | Modular Attack Techniques | Red & Purple Team Automation | Detection Engineering Validation -->
-
 # **Enterprise Attack Simulator**
 
 ![License](https://img.shields.io/github/license/secwexen/enterprise-attack-simulator)
