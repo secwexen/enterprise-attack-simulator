@@ -6,8 +6,6 @@ Thank you for your interest in contributing to this project. We welcome all kind
 
 Please read the guidelines below before submitting your contribution.
 
----
-
 ## 1. How to Contribute
 
 ### Reporting Issues
@@ -21,8 +19,6 @@ When proposing a new feature:
 - Explain the motivation behind the feature.
 - Describe how it benefits the project.
 - Provide examples or use cases if possible.
-
----
 
 ## 2. Submitting Code Changes
 
@@ -47,8 +43,6 @@ When submitting a PR:
 - Reference related issues (e.g., “Closes #12”).
 - Make sure all tests pass.
 
----
-
 ## 3. Code Style
 
 Follow these general rules:
@@ -57,15 +51,11 @@ Follow these general rules:
 - Add comments where necessary.
 - Include tests for new features or bug fixes.
 
----
-
 ## 4. Documentation
 
 If your contribution changes behavior or adds functionality:
 - Update the relevant documentation.
 - Add examples when appropriate.
-
----
 
 ## 5. Code of Conduct
 
