@@ -5,8 +5,6 @@
 A modular adversary simulation framework designed to emulate real-world cyber attacks based on the MITRE ATT&CK framework.  
 This project enables Red Team, Purple Team, and security engineers to evaluate detection capabilities, validate defensive controls, and simulate realistic attack chains in enterprise environments.
 
----
-
 ## **Features**
 
 - Full **MITRE ATT&CK–aligned** tactics and techniques  
@@ -16,8 +14,6 @@ This project enables Red Team, Purple Team, and security engineers to evaluate d
 - Automatic reporting (JSON + Markdown)  
 - Developer-friendly technique creation guide  
 - Logging and behavioral tracking hooks  
-
----
 
 ## **Architecture Overview**
 
@@ -36,8 +32,6 @@ The framework is built around three core components:
 ### **3. Attack Profiles**
 - YAML files define attack chains  
 - Example: Discovery → Persistence → Lateral Movement  
-
----
 
 ## **Project Structure**
 
@@ -83,8 +77,6 @@ enterprise-attack-simulator/
 └── requirements.txt
 ```
 
----
-
 ## **Installation**
 
 ```bash
@@ -92,8 +84,6 @@ git clone https://github.com/secwexen/enterprise-attack-simulator.git
 cd enterprise-attack-simulator
 pip install -r requirements.txt
 ```
-
----
 
 ## **Usage**
 
@@ -109,15 +99,11 @@ Run an attack profile:
 python src/main.py --profile configs/attack_profile_example.yaml
 ```
 
----
-
 ## **Running Tests**
 
 ```bash
 pytest tests/
 ```
-
----
 
 ## Disclaimer
 
@@ -125,14 +111,10 @@ This tool is intended for authorized security testing, research, and educational
 Unauthorized use against systems without explicit permission is illegal and strictly prohibited.
 The authors are not responsible for misuse.
 
----
-
 ## **License**
 
 This project is licensed under the **Apache-2.0 License**.  
 See the [LICENSE](LICENSE) file for full details.
-
----
 
 ## Author
 
