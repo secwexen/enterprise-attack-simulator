@@ -71,7 +71,6 @@ enterprise-attack-simulator/
 │   ├── test_techniques.py
 │   └── test_utils.py
 │
-├── .gitignore
 ├── LICENSE
 ├── README.md
 └── requirements.txt
