@@ -117,5 +117,6 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## Author
 
-**Secwexen** – Project Author & Maintainer  
+**Secwexen** – Project Author, Lead & Maintainer  
+**Role:** Project Author, Lead & Maintainer    
 **GitHub:** [github.com/secwexen](https://github.com/secwexen)  
