@@ -129,6 +129,10 @@ Copyright © 2026 secwexen.
 This project is licensed under the **Apache-2.0 License**.  
 See the [LICENSE](LICENSE) file for full details.
 
+## Development Status
+
+**Enterprise Attack Simulator** is currently in **Early Development / Beta** stage.
+
 ## Author
 
 **Secwexen** – Project Author, Lead & Maintainer  
