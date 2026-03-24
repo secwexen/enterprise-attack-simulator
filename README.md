@@ -12,7 +12,7 @@ Enterprise Attack Simulator is a modular, MITRE ATT&CK–aligned adversary simul
 
 ## Overview
 
-This framework is designed for realistic cyberattack simulation in enterprise environments. Its modular architecture allows easy extension of attack techniques, supporting both Windows and Linux systems. Users can define attack chains via YAML profiles, run them safely in dry-run mode, and generate detailed JSON and Markdown reports for detection validation and defense assessment. By leveraging MITRE ATT&CK techniques, organizations can improve threat detection, response strategies, and security posture.
+Enterprise Attack Simulator enables realistic, modular MITRE ATT&CK–aligned simulations on Windows and Linux, allowing teams to safely test attack chains, validate defenses, and improve detection and response.
 
 ## Features
 
