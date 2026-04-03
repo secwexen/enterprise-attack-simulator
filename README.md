@@ -1,9 +1,9 @@
 # Enterprise Attack Simulator
 
-[![Build](https://github.com/secwexen/security-playbooks/actions/workflows/ci.yml/badge.svg?branch=main&event=pull_request)](https://github.com/secwexen/security-playbooks/actions/workflows/ci.yml)
-[![Coverage](https://codecov.io/gh/secwexen/security-playbooks/branch/main/graph/badge.svg?branch=main&event=pull_request)](https://codecov.io/gh/secwexen/security-playbooks)
-[![Release](https://img.shields.io/github/v/release/secwexen/security-playbooks)](https://github.com/secwexen/security-playbooks/releases)
-[![License](https://img.shields.io/github/license/secwexen/security-playbooks)](https://github.com/secwexen/security-playbooks/blob/main/LICENSE)
+[![Build](https://github.com/secwexen/enterprise-attack-simulator/actions/workflows/ci.yml/badge.svg?branch=main&event=pull_request)](https://github.com/secwexen/enterprise-attack-simulator/actions/workflows/ci.yml)
+[![Coverage](https://codecov.io/gh/secwexen/enterprise-attack-simulator/branch/main/graph/badge.svg?branch=main&event=pull_request)](https://codecov.io/gh/secwexen/enterprise-attack-simulator)
+[![Release](https://img.shields.io/github/v/release/secwexen/enterprise-attack-simulator)](https://github.com/secwexen/enterprise-attack-simulator/releases)
+[![License](https://img.shields.io/github/license/secwexen/enterprise-attack-simulator)](https://github.com/secwexen/enterprise-attack-simulator/blob/main/LICENSE)
 
 A modular adversary simulation framework designed to emulate real-world cyber attacks based on the MITRE ATT&CK framework.  
 This project enables Red Team, Purple Team, and security engineers to evaluate detection capabilities, validate defensive controls, and simulate realistic attack chains in enterprise environments.
