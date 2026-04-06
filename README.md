@@ -138,8 +138,3 @@ For guidance on safe usage and reporting vulnerabilities, see [SECURITY.md](/SEC
 ## Development Status
 
 **Enterprise Attack Simulator** is currently in **Early Development / Beta** stage.
-
-## Author
-
-**Secwexen** – Project Author, Lead & Maintainer  
-**GitHub:** [github.com/secwexen](https://github.com/secwexen)  
