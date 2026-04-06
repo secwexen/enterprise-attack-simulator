@@ -135,3 +135,8 @@ For guidance on safe usage and reporting vulnerabilities, see [SECURITY.md](/SEC
 ## Development Status
 
 **Enterprise Attack Simulator** is currently in **Early Development / Beta** stage.
+
+## Community & Support
+
+- Join [Discussions](https://github.com/secwexen/enterprise-attack-simulator/discussions) to share feedback and proposals.
+- **Found Enterprise Attack Simulator repository useful? Give us a star and help grow the community!**  
