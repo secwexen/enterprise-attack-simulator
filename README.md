@@ -140,3 +140,8 @@ For guidance on safe usage and reporting vulnerabilities, see [SECURITY.md](/SEC
 
 - Join [Discussions](https://github.com/secwexen/enterprise-attack-simulator/discussions) to share feedback and proposals.
 - **Found Enterprise Attack Simulator repository useful? Give us a star and help grow the community!**  
+
+## Author
+
+**Secwexen** – Project Author, Lead & Maintainer    
+**GitHub:** [github.com/secwexen](https://github.com/secwexen)
