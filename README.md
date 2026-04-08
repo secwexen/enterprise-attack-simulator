@@ -2,7 +2,6 @@
 
 [![Build](https://github.com/secwexen/enterprise-attack-simulator/actions/workflows/ci.yml/badge.svg?branch=main&event=pull_request)](https://github.com/secwexen/enterprise-attack-simulator/actions/workflows/ci.yml)
 [![Coverage](https://codecov.io/gh/secwexen/enterprise-attack-simulator/branch/main/graph/badge.svg?branch=main&event=pull_request)](https://codecov.io/gh/secwexen/enterprise-attack-simulator)
-[![Release](https://img.shields.io/github/v/release/secwexen/enterprise-attack-simulator)](https://github.com/secwexen/enterprise-attack-simulator/releases)
 [![License](https://img.shields.io/github/license/secwexen/enterprise-attack-simulator)](https://github.com/secwexen/enterprise-attack-simulator/blob/main/LICENSE)
 
 ## About
