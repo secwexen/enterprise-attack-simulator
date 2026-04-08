@@ -8,10 +8,6 @@
 
 Enterprise Attack Simulator is a modular, MITRE ATT&CK–aligned adversary simulation framework that empowers Red Teams, Purple Teams, and security engineers to test and enhance enterprise security defenses. It simulates realistic attack chains on Windows and Linux environments, providing actionable insights through structured reports.
 
-## Overview
-
-Enterprise Attack Simulator enables realistic, modular MITRE ATT&CK–aligned simulations on Windows and Linux, allowing teams to safely test attack chains, validate defenses, and improve detection and response.
-
 ## Features
 
 - Full **MITRE ATT&CK–aligned** tactics and techniques  
