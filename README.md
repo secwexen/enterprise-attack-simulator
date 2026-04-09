@@ -15,7 +15,6 @@ Enterprise Attack Simulator is a modular, MITRE ATT&CK–aligned adversary simul
 - Windows & Linux technique support  
 - YAML-based attack profiles  
 - Automatic reporting (JSON + Markdown)  
-- Developer-friendly technique creation guide  
 - Logging and behavioral tracking hooks  
 
 ## Architecture Overview
