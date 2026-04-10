@@ -128,7 +128,7 @@ The authors are not responsible for misuse.
 Copyright © 2026 secwexen.
 
 This project is licensed under the **Apache-2.0 License**.  
-See the [LICENSE](LICENSE) file for full details.
+See the [LICENSE](/LICENSE) file for full details.
 
 ## Security
 
