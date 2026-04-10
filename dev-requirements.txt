@@ -1,4 +1,14 @@
 # === Testing ===
 pytest>=8.2.0
-pytest-asyncio>=0.23
 pytest-cov>=4.1
+
+# === Lint & Format ===
+pylint>=3.0
+black>=24.0.0
+isort>=6.0.0
+
+# === Logging / Debug ===
+loguru>=0.7
+
+# === Pre-commit hooks ===
+pre-commit>=3.3.3
