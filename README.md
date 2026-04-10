@@ -76,6 +76,7 @@ enterprise-attack-simulator/
 │   ├── test_techniques.py
 │   └── test_utils.py
 │
+├── CODE_OF_CONDUCT.md
 ├── LICENSE
 ├── README.md
 ├── SECURITY.md
