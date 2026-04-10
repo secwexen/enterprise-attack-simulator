@@ -97,6 +97,9 @@ venv\Scripts\activate     # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Install dev dependencies
+pip install -r dev-requirements.txt
 ```
 
 ## Usage
