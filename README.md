@@ -78,6 +78,7 @@ enterprise-attack-simulator/
 │
 ├── LICENSE
 ├── README.md
+├── SECURITY.md
 └── requirements.txt
 ```
 
