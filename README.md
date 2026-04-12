@@ -151,4 +151,4 @@ For guidance on safe usage and reporting vulnerabilities, see [SECURITY.md](SECU
 ## Author
 
 **Secwexen** – Project Lead & Maintainer    
-**GitHub:** [github.com/secwexen](https://github.com/secwexen)
+**GitHub:** [https://github.com/secwexen](https://github.com/secwexen)
