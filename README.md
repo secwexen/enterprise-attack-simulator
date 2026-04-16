@@ -142,7 +142,7 @@ For guidance on safe usage and reporting vulnerabilities, see [SECURITY](SECURIT
 
 ## Development Status
 
-**Enterprise Attack Simulator** is currently in **Early Development / Beta** stage.
+**Enterprise Attack Simulator** is currently in **Beta** stage.
 
 ## Author
 
