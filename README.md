@@ -113,9 +113,9 @@ pip install -r dev-requirements.txt
 
 ### CLI Options
 
-`--profile`     -    Specify attack profile YAML file to execute  
-`--verbose`     -    Enable detailed logging  
-`--dry-run`     -    Simulate attacks without executing actions  
+`--profile`          Specify attack profile YAML file to execute  
+`--verbose`          Enable detailed logging  
+`--dry-run`          Simulate attacks without executing actions  
 
 ```bash
 # Run an attack profile
