@@ -84,6 +84,14 @@ enterprise-attack-simulator/
 
 ## Installation
 
+### Python Requirements
+
+- Python **3.11+**  
+- pip 23+  
+- Virtual environment recommended
+
+## Quick Start
+
 ```bash
 # Clone repository
 git clone https://github.com/secwexen/enterprise-attack-simulator.git
@@ -105,20 +113,13 @@ pip install -r dev-requirements.txt
 
 ### CLI Options
 
-`--profile`          Specify attack profile YAML file to execute  
-`--verbose`          Enable detailed logging  
-`--dry-run`          Simulate attacks without executing actions  
-
-Run an attack profile:
+`--profile`     -    Specify attack profile YAML file to execute  
+`--verbose`     -    Enable detailed logging  
+`--dry-run`     -    Simulate attacks without executing actions  
 
 ```bash
+# Run an attack profile
 python src/main.py --profile configs/attack_profile_example.yaml
-```
-
-## Running Tests
-
-```bash
-pytest tests/
 ```
 
 ## Disclaimer
@@ -136,13 +137,13 @@ Copyright © 2026 secwexen.
 This project is licensed under the **Apache-2.0 License**.  
 See the [LICENSE](LICENSE) file for full details.
 
-## Security
-
-For guidance on safe usage and reporting vulnerabilities, see [SECURITY](SECURITY.md).
-
 ## Development Status
 
 **Enterprise Attack Simulator** is currently in **Beta** stage.
+
+## Security
+
+For guidance on safe usage and reporting vulnerabilities, see [SECURITY](SECURITY.md).
 
 ## Author
 
