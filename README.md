@@ -117,8 +117,8 @@ pip install -r dev-requirements.txt
 `--verbose`          Enable detailed logging  
 `--dry-run`          Simulate attacks without executing actions  
 
+Run an attack profile:
 ```bash
-# Run an attack profile
 python src/main.py --profile configs/attack_profile_example.yaml
 ```
 
