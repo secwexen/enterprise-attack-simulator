@@ -87,8 +87,7 @@ enterprise-attack-simulator/
 ### Python Requirements
 
 - Python **3.11+**  
-- pip 23+  
-- Virtual environment recommended
+- pip **23+**
 
 ## Quick Start
 
