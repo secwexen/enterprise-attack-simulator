@@ -127,8 +127,6 @@ This tool is intended for authorized security testing, research, and educational
 Unauthorized use against systems without explicit permission is illegal and strictly prohibited.
 The authors are not responsible for misuse.
 
-For full details, see [DISCLAIMER](DISCLAIMER.md).
-
 ## License
 
 Copyright © 2026 secwexen.
