@@ -84,7 +84,7 @@ enterprise-attack-simulator/
 
 ## Installation
 
-### Python Requirements
+### Requirements
 
 - Python **3.11+**  
 - pip **23+**
