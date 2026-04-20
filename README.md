@@ -1,6 +1,6 @@
 # Attack Simulator Framework
 
-[![status](https://img.shields.io/badge/status-archived-lightgrey)](https://github.com/secwexen/enterprise-attack-framework)
+[![status](https://img.shields.io/badge/status-archived-lightgrey)](https://github.com/secwexen/attack-simulator-framework)
 
 ## About
 
