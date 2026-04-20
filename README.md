@@ -1,7 +1,6 @@
 # Enterprise Attack Simulator
 
-[![Coverage](https://codecov.io/gh/secwexen/enterprise-attack-simulator/branch/main/graph/badge.svg?branch=main&event=pull_request)](https://codecov.io/gh/secwexen/enterprise-attack-simulator)
-[![License](https://img.shields.io/github/license/secwexen/enterprise-attack-simulator)](https://github.com/secwexen/enterprise-attack-simulator/blob/main/LICENSE)
+[![status](https://img.shields.io/badge/status-archived-lightgrey)](https://github.com/secwexen/enterprise-attack-simulator)
 
 ## About
 
