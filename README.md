@@ -1,10 +1,10 @@
-# Enterprise Attack Simulator
+# Attack Simulator Framework
 
 [![status](https://img.shields.io/badge/status-archived-lightgrey)](https://github.com/secwexen/enterprise-attack-simulator)
 
 ## About
 
-Enterprise Attack Simulator is a modular, MITRE ATT&CK–aligned adversary simulation framework that empowers Red Teams, Purple Teams, and security engineers to test and enhance enterprise security defenses. It simulates realistic attack chains on Windows and Linux environments, providing actionable insights through structured reports.
+Attack Simulator Framework is a modular, MITRE ATT&CK–aligned adversary simulation framework that empowers Red Teams, Purple Teams, and security engineers to test and enhance enterprise security defenses. It simulates realistic attack chains on Windows and Linux environments, providing actionable insights through structured reports.
 
 ## Features
 
@@ -39,7 +39,7 @@ The framework is built around three core components:
 ## Project Structure
 
 ```
-enterprise-attack-simulator/
+attack-simulator-framework/
 │
 ├── src/
 │   ├── core/
@@ -92,8 +92,8 @@ enterprise-attack-simulator/
 
 ```bash
 # Clone repository
-git clone https://github.com/secwexen/enterprise-attack-simulator.git
-cd enterprise-attack-simulator
+git clone https://github.com/secwexen/attack-simulator-framework.git
+cd attack-simulator-framework
 
 # Create virtual environment
 python -m venv venv
