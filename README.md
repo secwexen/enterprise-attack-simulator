@@ -133,10 +133,6 @@ Copyright © 2026 secwexen.
 This project is licensed under the **Apache-2.0 License**.  
 See the [LICENSE](LICENSE) file for full details.
 
-## Security
-
-For guidance on safe usage and reporting vulnerabilities, see [SECURITY](SECURITY.md).
-
 ## Author
 
 **Secwexen** – Project Lead & Maintainer    
